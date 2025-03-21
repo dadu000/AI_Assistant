@@ -1,3 +1,4 @@
+# Description: This is the main file for the AI Assistant project. It uses the ElevenLabs API to generate speech audio and the NewsAPI and OpenWeatherMap APIs to fetch news and weather data. It also uses the Wikipedia API to fetch information from Wikipedia. The assistant can perform various tasks such as telling the time and date, opening social media sites, fetching news and weather, searching Wikipedia, and more. It can also interact with the user through voice commands and responses.
 import datetime
 import os
 import sys
